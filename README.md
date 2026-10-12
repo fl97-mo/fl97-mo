@@ -22,8 +22,6 @@ Right now, I’m especially interested in:
 
 🌱 Improving my skills in **software development, web engineering, and data-driven systems**
 
-🔗 Sometimes I struggle or enjoy solving problems here: [LeetCode](https://leetcode.com/u/FloMo97/)
-
 🎵 You can also find my music on [SoundCloud](https://soundcloud.com/nomkee/tracks)
 
 ---
